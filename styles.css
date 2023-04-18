@@ -71,7 +71,6 @@ header.primary-headerprimary-header {
     text-align: right;
     position: relative;
     font-size: 0;
-    /* For removing the default margin between the inline-block elements if any. */
 }
 
 .menu>ul>li {
@@ -90,9 +89,6 @@ header.primary-headerprimary-header {
     color: rgb(227, 227, 227);
 }
 
-/* .has-sub-menu > a {
-position: relative;
-} */
 .has-sub-menu {
     position: relative;
 }
